@@ -32,3 +32,13 @@ The dataset contains the following columns:
 - Total Earnings: Combined salary and endorsement income (in USD)
 - Rank: Athlete’s rank based on total earnings
 - Year: The reporting year for the earnings (2021)
+
+## Project Objectives
+The analysis was carried out to explore trends and patterns among the highest-paid athletes globally in 2021. Key objectives of this dashboard include:
+- Visualize Athlete Earnings: To clearly summarise total earnings from salaries and endorsements across various sports.
+- Compare Top and Bottom Earners: Highlight the top 10 and bottom 10 earners in terms of salary and endorsements to understand disparities in income.
+- Analyze by Sport: Examine which sports dominate in terms of athlete representation and overall earnings.
+- Nationality Breakdown: Understand the geographical distribution of top-earning athletes and how nationality influences earning potential.
+- Endorsement Impact: Analyze how non-salary income contributes to total earnings, especially in sports like basketball, golf, and football.
+- Gender and Representation: (If applicable from your dataset) Review athlete representation across genders, if any.
+- Data-Driven Insights: Enable stakeholders and sports analysts to make informed observations about athlete market value, brand influence, and sport-specific income trends.
