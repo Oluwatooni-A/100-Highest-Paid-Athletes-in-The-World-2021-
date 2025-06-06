@@ -40,5 +40,7 @@ The analysis was carried out to explore trends and patterns among the highest-pa
 - Analyze by Sport: Examine which sports dominate in terms of athlete representation and overall earnings.
 - Nationality Breakdown: Understand the geographical distribution of top-earning athletes and how nationality influences earning potential.
 - Endorsement Impact: Analyze how non-salary income contributes to total earnings, especially in sports like basketball, golf, and football.
-- Gender and Representation: (If applicable from your dataset) Review athlete representation across genders, if any.
 - Data-Driven Insights: Enable stakeholders and sports analysts to make informed observations about athlete market value, brand influence, and sport-specific income trends.
+
+## Visualisation
+![image](https://github.com/user-attachments/assets/ceee47a2-32e9-4b93-a722-b1b0956e69a0)
