@@ -44,3 +44,26 @@ The analysis was carried out to explore trends and patterns among the highest-pa
 
 ## Visualisation
 ![image](https://github.com/user-attachments/assets/ceee47a2-32e9-4b93-a722-b1b0956e69a0)
+
+## Findings and Insights
+### 1. Basketball Leads in Representation:
+With 40 out of 100 athletes, basketball has the highest representation, indicating the NBA's dominance in athlete earnings and global reach.
+
+### 2. American Athletes Dominate the List:
+81.71% of the top 100 earners are American, reflecting the massive scale of American sports leagues (NBA, NFL, MLB) and endorsement markets.
+
+### 3. Cristiano Ronaldo Tops Salary Rankings:
+Ronaldo leads the salary chart with $215M, followed by Jon Rahm and Kylian Mbappé, showcasing the high earning power of global football stars.
+
+### 4. LeBron James Leads in Endorsements:
+Earning $80M from endorsements alone, LeBron James underscores how personal brand and marketability significantly boost total income.
+
+### 5. Endorsement Disparities Across Sports:
+Athletes in golf, tennis, and basketball typically earn more from endorsements than salaries, unlike American football or baseball players who rely more on contracts.
+
+### 6. Low-End Salaries Still in Millions:
+The lowest salaries in the dataset still range between $15M and $28M, emphasizing the lucrative nature of elite professional sports.
+### 7. Tennis and Formula 1 Least Represented:
+Sports like Tennis and F1 have the fewest representatives (2 athletes each), yet still manage to feature among the top 100, pointing to high average earnings within those sports.
+### 8. Wide Range of Earning Models:
+While athletes like Ronaldo and Messi have a balanced income from both salary and endorsements, others like Tiger Woods and Roger Federer derive the majority of their income from endorsements, showing multiple pathways to top-tier wealth in sports.
